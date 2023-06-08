@@ -24,7 +24,7 @@ To run the application locally, follow these steps:
 1. Clone the repository:
 
 ```
-git clone https://github.com/your_username/mean-median-mode-apples.git
+git clone https://github.com/MahmoudHassan/mean-median-mode-apples.git
 ```
 
 2. Install the required dependencies:
